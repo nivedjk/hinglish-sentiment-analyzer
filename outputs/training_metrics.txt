@@ -1,0 +1,11 @@
+========== TRAINING RESULTS ==========
+
+eval_loss: 0.8361348509788513
+eval_accuracy: 0.6464705882352941
+eval_precision: 0.6476060817069988
+eval_recall: 0.6464705882352941
+eval_f1: 0.6469773230846396
+eval_runtime: 168.1815
+eval_samples_per_second: 10.108
+eval_steps_per_second: 1.266
+epoch: 3.0
